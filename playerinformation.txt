@@ -1,0 +1,157 @@
+rohit sharma,34102,india
+varun aaron,360911,india
+shikhar dhawan,28235,india
+dinesh karthik,30045,india
+bhuvneshwar kumar,326016,india
+pragyan ojha,32130,india
+suresh raina,33335,india
+ishant sharma,236779,india
+vinay kumar,35731,india
+zaheer khan,30102,india
+ravichandran ashwin,26421,india
+amit mishra,31107,india
+ajinkya rahane,277916,india
+mohammad shami,481896,india
+yuvraj singh,36084,india
+aaron finch,5334,australia
+david warner,219889,australia
+shane watson,8180,australia
+glenn maxwell,325026,australia
+george bailey,4451,australia
+brad hodge,5674,australia
+brad haddin,5560,australia
+brad hogg,5681,australia
+mitchell starc,311592,australia
+nathan coulter-nile,261354,australia
+doug bollinger,4508,australia
+mitchell johnson,6033,australia
+michael clarke,4578,australia
+moises henriques,5961,australia
+cameron white,8291,australia
+quinton de kock,379143,south africa
+hashim amla,43906,south africa
+faf du plessis,44828,south africa
+abd villiers,44936,south africa
+jp duminy,44932,south africa
+albie morkel,46248,south africa
+morne morkel,46538,south africa
+dale steyn,47492,south africa
+imran tahir,40618,south africa
+lonwabo tsotsobe,47666,south africa
+h davids,44752,south africa
+r mclaren,46393,south africa
+david miller,321777,south africa
+dean elgar,230852,south africa
+martin guptill,226492,new zealand
+corey anderson,277662,new zealand
+mitchell mclenaghan,319439,new zealand
+kane williamson,277906,new zealand
+brendon mcculum,37737,new zealand
+nathan mcculum,37749,new zealand
+colin munro,232359,new zealand
+luke ronchi,7502,new zealand
+tim southee,232364,new zealand
+ross taylor,38699,new zealand
+jimmy neesham,355269,new zealand
+trent boult,277912,new zealand
+neil broom,36581,new zealand
+kyle mills,37740,new zealand
+adnan akmal,39038,pakistan
+kamran akmal,41028,pakistan
+umar akmal,317273,pakistan
+asad shafiq,316397,pakistan
+mohammad talha,227771,pakistan
+saeed ajmal,42699,pakistan
+sohail tanvir,43265,pakistan
+mohammad hafeez,41434,pakistan
+shoaib malik,42657,pakistan
+shahid afridi,42639,pakistan
+umar gul,43524,pakistan
+junaid khan,259551,pakistan
+mohammad shehzad,259410,pakistan
+misbah ul haq,41378,pakistan 
+sohaib maqsood,43266,pakistan
+michael lumb,16406,england
+moeen ali,8917,england
+stuart broad,10617,england
+alistair cook,11728,england
+chris jordan,288992,england
+jimmy anderson,8608,england
+tim bresnan,9310,england
+eoin morgan,24598,england
+luke wright,23460,england
+joe root,303669,england
+james tredwell,21646,england
+ravi bopara,10582,england
+chris gayle,51880,west indies
+dwayne smith,53118,west indies
+marlon samuels,52983,west indies
+lendl simmons,53116,west indies
+kieron pollard,230559,west indies
+dwayne bravo,51439,west indies
+darren bravo,277472,west indies
+andre fletcher,51862,west indies
+darren sammy,53115,west indies
+sunil narine,230558,west indies
+denesh ramdin,52917,west indies
+tino best,51436,west indies
+shivnarine chanderpaul,51469,west indies
+kusal perera,300631,sri lanka
+tillekaratne dilshan,48472,sri lanka
+kumar sangakkara,50710,sri lanka
+mahela jayawardene,49289,sri lanka
+upul tharanga,50747,sri lanka
+thisara perera,233514,sri lanka
+lasith malinga,49758,sri lanka
+angelo mathews,49764,sri lanka
+nuwan kulasekara,49535,sri lanka
+sachithra senanayake,273439,sri lanka
+jehan mubarak,49633,sri lanka
+ashan priyanjan,233802,sri lanka
+suranga lakmal,49619,sri lanka
+rangana herath,49178,sri lanka
+dinesh chandimal,300628,sri lanka
+elton chigumbara,55343,zimbabwe
+craig ervine,55412,zimbabwe
+christopher mpofu,55633,zimbabwe
+ray price,55698,zimbabwe
+kyle jarvis,332996,zimbabwe
+prosper utseya,55820,zimbabwe
+hamilton masakadza,55608,zimbabwe
+tinashe panyangara,55705,zimbabwe
+sikandar raza,299572,zimbabwe
+sean williams,55870,zimbabwe
+vusi sibanda,55787,zimbabwe
+brian vitori,235514,zimbabwe
+brendan taylor,55814,zimbabwe
+tatenda taibu,55805,zimbabwe
+C Chibhabha,55354,zimbabwe
+adeel raja,24978,netherlands
+mudassar bukhari,245166,netherlands
+tom cooper,219885,netherlands
+t gruijters,364300,netherlands
+wesley barresi,44407,netherlands
+bp loots,466610,netherlands
+b cooper,470699,netherlands
+peter borren,36592,netherlands
+van der gugten,333782,netherlands
+van bunge,24964,netherlands
+e schiferli,24943,netherlands 
+de grooth,25022,netherlands
+s myburgh,233712,netherlands
+peter seelaar,208657,netherlands
+r aga,24716,kenya
+collins obuya,24752,kenya
+pj ongonda,24762,kenya
+fn otieno,24770,kenya
+ha varaiya,254114,kenya
+thomas odoyo,24705,kenya
+gurdeep singh,637496,kenya
+so ngoche,308515,kenya
+ln onyango,24711,kenya
+l ouloch,440162,kenya
+r patel,267455,kenya
+steve tikolo,24728,kenya
+sr waters,352894,kenya
+ia karim,348016,kenya
+rd gudhka,494133,kenya
